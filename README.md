@@ -1,6 +1,8 @@
-Irashai. Welcome to my GitHub Page
+<img align="center" img src="https://user-images.githubusercontent.com/73125355/125493781-9f03dc15-3e85-4d6f-9a35-5e98eb7c16ed.gif">
 
-<img src="https://tenor.com/gif-maker?utm_source=gif-caption&utm_medium=internal&utm_campaign=gif-maker-entrypoints" width="400" height="400" />
 
-Hi there i'm Puja Khalika Buana
+IRASAI. WELCOME TO MY GITHUB PAGE
+
+
+
 
