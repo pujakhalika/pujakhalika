@@ -29,9 +29,9 @@ Hi, You can call me Puja
 <blockquote> <b> <i> 'life without game and code is boring so enjoy your life while it last'.</i> </b> </blockquote>
 </div>
 
-<h5 align="Left">
+<h4 align="Left">
 🔸<b> Follow and Connect With Me : </b>
-</h5>
+</h4>
 
 
 <p align="center">
