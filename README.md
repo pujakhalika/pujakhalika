@@ -14,12 +14,13 @@
 
 
 <div align="left">
- IRASSHAI! 
+ <b> IRASSHAI! </b>
 </div>
 
 <div align="center">
-:octocat: WELCOME TO MY GITHUB HOMEPAGE :octocat:
+:octocat: <b> WELCOME TO MY GITHUB HOMEPAGE </b>:octocat:
 </div>
+
 <div align="center">
 Hi, You can call me Puja
 </div>
