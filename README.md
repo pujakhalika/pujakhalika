@@ -51,7 +51,7 @@ Hi, You can call me Puja
   <img  alt="Puja Khalika's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://steamcommunity.com/Jennierubyjane">
+<a href="https://steamcommunity.com/id/pujakhalika71">
   <img  alt="Puja Khalika's Steam" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
 </a>
  </samp>
