@@ -20,8 +20,8 @@ Hi, You can call me Puja
 <blockquote> <b> <i> 'life without game and code is boring so enjoy your life while it last'.</i> </b> </blockquote>
 </div>
 
-<h4 align="Left">
-🔸<b> Follow and Connect With Me : </b>
+<h4 align="center">
+🔸<b> Follow and Connect With Me 🔸 </b>
 </h4>
 
 
@@ -52,23 +52,23 @@ Hi, You can call me Puja
 </a>
  </samp>
 
-<h4 align="left">
-🔸<b> Top Languange </b>
+<h4 align="center">
+🔸<b> Top Languange 🔸</b>
 </h4>
-<div align="left">
+<div align="center">
 &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pujakhalika&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pujakhalika">
 </div>
 
-<h4 align="left">
-🔸<b> GitHub Statistics </b>
+<h4 align="center">
+🔸<b> GitHub Statistics 🔸</b>
 </h4>
-<div align="left">
+<div align="center">
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pujakhalika&show_icons=true&theme=tokyonight&locale=en" alt="pujakhalika">
 </div>
 
-<h4 align="left">
-🔸<b> Streak Statistics </b>
+<h4 align="center">
+🔸<b> Streak Statistics 🔸</b>
 </h4>
-<div align="left">
+<div align="center">
 &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=pujakhalika&theme=dark" alt="pujakhalika">
 </div>
