@@ -25,6 +25,10 @@
 Hi, You can call me Puja
 </div>
 
+<div algin="center">
+<blockquote> <b> <i> without game and code life is boring so enyoy your life while it last </i> </b> </blockquote>
+</div>
+
 <div align="Left">
 🔸<b> Follow Me : </b>
 </div>
