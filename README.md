@@ -32,7 +32,7 @@ Hi, You can call me Puja
 </a>
 
 <a href="https://twitter.com/PujaKhalika">
-  <img  alt="Puja Khalika's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img  alt="Puja Khalika's Twitter" width="50px" src="https://user-images.githubusercontent.com/73125355/125702822-80504c05-4a0f-4676-9491-1fae623bc0fd.png" />
 </a>
 
 <a href="https://www.facebook.com/pujakhalika/">
