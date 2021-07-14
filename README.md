@@ -40,7 +40,7 @@ Hi, You can call me Puja
 </a>
 
 <a href="https://www.linkedin.com/in/puja-khalika-buana-45aa75194/">
-  <img  alt="Puja Khalika's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img  alt="Puja Khalika's Linkdein" width="30px" src="https://user-images.githubusercontent.com/73125355/125703390-1593c466-d192-4f26-8f20-62672502d51d.png" />
 </a>
 
 <a href="https://github.com/pujakhalika">
