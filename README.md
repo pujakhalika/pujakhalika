@@ -28,7 +28,7 @@ Hi, You can call me Puja
 <p align="center">
   <samp>
 <a href="https://instagram.com/pujakhalika17/">
-  <img  alt="Puja Khalika's Instagram" width="30x" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img  alt="Puja Khalika's Instagram" width="50x" src="https://user-images.githubusercontent.com/73125355/125702142-9b40b898-c9f6-474f-977b-29720a436f0a.png" />
 </a>
 
 <a href="https://twitter.com/PujaKhalika">
