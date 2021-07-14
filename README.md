@@ -43,12 +43,12 @@ Hi, You can call me Puja
   <img  alt="Puja Khalika's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://discord.gg/Puja Khalika#9405">
-  <img  alt="Puja Khalika's Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-
 <a href="https://github.com/pujakhalika">
   <img  alt="Puja Khalika's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://discord.gg/Puja Khalika#9405">
+  <img  alt="Puja Khalika's Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
 <a href="https://steamcommunity.com/profiles/76561198292273467">
