@@ -53,15 +53,15 @@ Hi, You can call me Puja
  </samp>
 
 <h4 align="left">
-🔸<b> GitHub Statistics </b>
-</h4>
-<div align"left">
-<img src="https://github-readme-stats.vercel.app/api?username=pujakhalika&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-</div>
-
-<h4 align="left">
 🔸<b> Top Languange </b>
 </h4>
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pujakhalika&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pujakhalika">
+</div>
+
+<h4 align="left">
+🔸<b> GitHub Statistics </b>
+</h4>
+<div align"left">
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pujakhalika&show_icons=true&theme=tokyonight&locale=en" alt="pujakhalika">
 </div>
