@@ -36,7 +36,7 @@ Hi, You can call me Puja
 </a>
 
 <a href="https://www.facebook.com/pujakhalika/">
-  <img  alt="Puja Khalika's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img  alt="Puja Khalika's Facebook" width="30px" src="https://user-images.githubusercontent.com/73125355/125703109-80d8149b-c896-4aaa-9115-23cc14c49ce6.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/puja-khalika-buana-45aa75194/">
