@@ -48,7 +48,7 @@ Hi, You can call me Puja
 </a>
 
 <a href="https://discord.gg/Puja Khalika#9405">
-  <img  alt="Puja Khalika's Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img  alt="Puja Khalika's Discord" width="30px" src="https://user-images.githubusercontent.com/73125355/125703861-e99b4e85-043a-49dc-9f3a-99d31df138e4.png" />
 </a>
 
 <a href="https://steamcommunity.com/profiles/76561198292273467">
