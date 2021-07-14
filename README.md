@@ -13,8 +13,8 @@
 
 
 
-<div align="left">
- <b> IRASSHAI! </b>
+<div align="center">
+ <b> IRASSHAI! イラシャイ </b>
 </div>
 
 <div align="center">
@@ -26,5 +26,5 @@ Hi, You can call me Puja
 </div>
 
 <div align="Left">
-🔸Follow Me :
+🔸<b> Follow Me : </b>
 </div>
