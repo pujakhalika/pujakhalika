@@ -41,6 +41,6 @@ Hi, You can call me Puja
   <img  alt="Puja Khalika's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://www.facebook.com/PujaKhalikaBuana/">
+<a href="https://www.facebook.com/Puja Khalika Buana/">
   <img  alt="Puja Khalika's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
