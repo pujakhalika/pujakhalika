@@ -56,7 +56,7 @@ Hi, You can call me Puja
 🔸<b> Top Languange </b>
 </h4>
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pujakhalika&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pujakhalika">
+&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pujakhalika&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pujakhalika">
 </div>
 
 <h4 align="left">
