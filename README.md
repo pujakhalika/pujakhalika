@@ -13,12 +13,17 @@
 
 
 
-<div align="center">
-  IRASSHAI! WELCOME TO MY GITHUB PAGE
+<div align="left">
+ IRASSHAI! 
 </div>
 
-
-
+<div align="center">
+:octocat: WELCOME TO MY GITHUB HOMEPAGE :octocat:
+</div>
 <div align="center">
 Hi, You can call me Puja
+</div>
+
+<div align="Left">
+🔸Follow Me :
 </div>
