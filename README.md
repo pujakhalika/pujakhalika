@@ -13,17 +13,17 @@
 
 
 
-<h2 align="center">
+<div align="center">
  <b> IRASSHAI! イラシャイ </b>
-</h2>
+</div>
 
-<h4 align="center">
+<div align="center">
 :octocat: <b> WELCOME TO MY GITHUB HOMEPAGE </b>:octocat:
-</h4>
+</div>
 
-<h5 align="center">
+<div align="center">
 Hi, You can call me Puja
-</h5>
+</div>
 
 <div algin="center">
 <blockquote> <b> <i> 'life without game and code is boring so enjoy your life while it last'.</i> </b> </blockquote>
