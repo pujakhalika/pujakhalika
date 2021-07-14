@@ -28,11 +28,11 @@ Hi, You can call me Puja
 <p align="center">
   <samp>
 <a href="https://instagram.com/pujakhalika17/">
-  <img  alt="Puja Khalika's Instagram" width="50x" src="https://user-images.githubusercontent.com/73125355/125702142-9b40b898-c9f6-474f-977b-29720a436f0a.png" />
+  <img  alt="Puja Khalika's Instagram" width="30x" src="https://user-images.githubusercontent.com/73125355/125702142-9b40b898-c9f6-474f-977b-29720a436f0a.png" />
 </a>
 
 <a href="https://twitter.com/PujaKhalika">
-  <img  alt="Puja Khalika's Twitter" width="50px" src="https://user-images.githubusercontent.com/73125355/125702822-80504c05-4a0f-4676-9491-1fae623bc0fd.png" />
+  <img  alt="Puja Khalika's Twitter" width="30px" src="https://user-images.githubusercontent.com/73125355/125702822-80504c05-4a0f-4676-9491-1fae623bc0fd.png" />
 </a>
 
 <a href="https://www.facebook.com/pujakhalika/">
