@@ -34,7 +34,9 @@ Hi, You can call me Puja
 </div>
 
 <a href="https://instagram.com/pujakhalika17/">
-  <img  alt="Puja Khalisa's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img  alt="Puja Khalika's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
+<a href="https://twitter.com/PujaKhalika">
+  <img  alt="Puja Khalika's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
