@@ -62,6 +62,13 @@ Hi, You can call me Puja
 <h4 align="left">
 🔸<b> GitHub Statistics </b>
 </h4>
-<div align"left">
+<div align="left">
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pujakhalika&show_icons=true&theme=tokyonight&locale=en" alt="pujakhalika">
+</div>
+
+<h4 align="left">
+🔸<b> Streak Statistics </b>
+</h4>
+<div align="left">
+&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=pujakhalika&theme=dark" alt="pujakhalika">
 </div>
