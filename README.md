@@ -52,7 +52,7 @@ Hi, You can call me Puja
 </a>
 
 <a href="https://steamcommunity.com/profiles/76561198292273467">
-  <img  alt="Puja Khalika's Steam" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
+  <img  alt="Puja Khalika's Steam" width="30px" src="https://user-images.githubusercontent.com/73125355/125703978-ac7a2a21-2dcf-49e1-9cc7-581c22bf75c9.png" />
 </a>
  </samp>
 
