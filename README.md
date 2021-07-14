@@ -50,6 +50,10 @@ Hi, You can call me Puja
 <a href="https://github.com/pujakhalika">
   <img  alt="Puja Khalika's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
+<a href="https://steamcommunity.com/Jennierubyjane">
+  <img  alt="Puja Khalika's Steam" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />
+</a>
  </samp>
 
 <h4 align="center">
