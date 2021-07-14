@@ -1,15 +1,6 @@
 <p align="center">
-
 <img align="center" img src="https://user-images.githubusercontent.com/73125355/125493781-9f03dc15-3e85-4d6f-9a35-5e98eb7c16ed.gif">
-
 </p>
-
-
-
-
-
-
-
 
 
 
@@ -60,3 +51,10 @@ Hi, You can call me Puja
   <img  alt="Puja Khalika's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
  </samp>
+
+<h4 align="left">
+🔸<b> GitHub Statistics </b>
+</h4>
+<div align"left">
+<img src="https://github-readme-stats.vercel.app/api?username=pujakhalika&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</div>
