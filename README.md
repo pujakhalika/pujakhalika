@@ -13,42 +13,46 @@
 
 
 
-<div align="center">
+<h2 align="center">
  <b> IRASSHAI! イラシャイ </b>
-</div>
+</h2>
 
-<div align="center">
+<h4 align="center">
 :octocat: <b> WELCOME TO MY GITHUB HOMEPAGE </b>:octocat:
-</div>
+</h4>
 
-<div align="center">
+<h5 align="center">
 Hi, You can call me Puja
-</div>
+</h5>
 
 <div algin="center">
 <blockquote> <b> <i> 'life without game and code is boring so enjoy your life while it last'.</i> </b> </blockquote>
 </div>
 
-<div align="Left">
+<h5 align="Left">
 🔸<b> Follow and Connect With Me : </b>
-</div>
+</h5>
 
+
+<p align="center">
+  <samp>
 <a href="https://instagram.com/pujakhalika17/">
-  <img  alt="Puja Khalika's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img  alt="Puja Khalika's Instagram" width="30x" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <a href="https://twitter.com/PujaKhalika">
-  <img  alt="Puja Khalika's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img  alt="Puja Khalika's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="https://www.facebook.com/pujakhalika/">
-  <img  alt="Puja Khalika's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img  alt="Puja Khalika's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/Puja Khalika Buana/">
-  <img  alt="Puja Khalika's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img  alt="Puja Khalika's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://discord.gg/Puja Khalika#9405">
-  <img  alt="Puja Khalika's Discord" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img  alt="Puja Khalika's Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
+ </samp>
