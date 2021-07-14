@@ -30,7 +30,7 @@ Hi, You can call me Puja
 </div>
 
 <div align="Left">
-🔸<b> Follow Me : </b>
+🔸<b> Follow and Connect With Me : </b>
 </div>
 
 <a href="https://instagram.com/pujakhalika17/">
@@ -43,4 +43,12 @@ Hi, You can call me Puja
 
 <a href="https://www.facebook.com/pujakhalika/">
   <img  alt="Puja Khalika's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/Puja Khalika Buana/">
+  <img  alt="Puja Khalika's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://discord.gg/Puja Khalika#9405">
+  <img  alt="Puja Khalika's Discord" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
