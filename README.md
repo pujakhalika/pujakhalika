@@ -70,5 +70,5 @@ Hi, You can call me Puja
 🔸<b> Streak Statistics 🔸</b>
 </h4>
 <div align="center">
-&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=pujakhalika&theme=dark" alt="pujakhalika">
+&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=pujakhalika&theme=tokyonight&locale=en" alt="pujakhalika">
 </div>
