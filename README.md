@@ -39,7 +39,7 @@ Hi, You can call me Puja
   <img  alt="Puja Khalika's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/Puja Khalika Buana/">
+<a href="https://www.linkedin.com/in/puja-khalika-buana/">
   <img  alt="Puja Khalika's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
