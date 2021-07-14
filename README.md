@@ -32,3 +32,9 @@ Hi, You can call me Puja
 <div align="Left">
 🔸<b> Follow Me : </b>
 </div>
+
+<a href="https://instagram.com/pujakhalika17/">
+  <img  alt="Puja Khalisa's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+
