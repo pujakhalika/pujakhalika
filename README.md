@@ -48,7 +48,7 @@ Hi, You can call me Puja
 </a>
 
 <a href="https://stackoverflow.com/users/16262741/puja-khalika?tab=profile">
-  <img  alt="Puja Khalika's Stack Overflow" width="30px" src="" />
+  <img  alt="Puja Khalika's Stack Overflow" width="30px" src="https://user-images.githubusercontent.com/73125355/125716664-e8529b8c-ff65-454e-80a5-6143e28e2fff.png" />
 </a>
 
 <a href="https://discord.gg/Puja Khalika#9405">
