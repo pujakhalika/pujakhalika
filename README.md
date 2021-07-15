@@ -44,7 +44,7 @@ Hi, You can call me Puja
 </a>
 
 <a href="https://github.com/pujakhalika">
-  <img  alt="Puja Khalika's Github" width="30px" src="https://user-images.githubusercontent.com/73125355/125703734-f0480caa-e607-4350-8ff6-bdc2735c0fe9.png" />
+  <img  alt="Puja Khalika's Github" width="30px" src="https://user-images.githubusercontent.com/73125355/125725159-c1e550bf-d332-47ab-b16b-ac9cb6a60813.png" />
 </a>
 
 <a href="https://stackoverflow.com/users/16262741/puja-khalika?tab=profile">
