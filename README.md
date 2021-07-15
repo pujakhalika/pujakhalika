@@ -86,4 +86,4 @@ Hi, You can call me Puja
 </h4>
 <div align="center">
 &nbsp;<img src="https://novatorem-pujakhalika.vercel.app/api/spotify" alt="Spotify Now Playing" Width="345" />
-</div
+</div>
