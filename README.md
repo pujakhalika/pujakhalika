@@ -86,3 +86,6 @@ Hi, You can call me Puja
 </h4>
 
 [![Spotify](https://novatorem-pujakhalika.vercel.app/api/spotify)](https://open.spotify.com/user/31gf4ejxp4r2gh2ixgqbzy76ccni?si=QAXkqr2sRDug-0BmiztYQQ&utm_source=copy-link&dl_branch=1)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://github.com/DenverCoder1/github-readme-streak-stats)
