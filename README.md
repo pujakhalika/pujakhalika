@@ -81,8 +81,8 @@ Hi, You can call me Puja
 &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=pujakhalika&theme=tokyonight&locale=en" alt="pujakhalika">
 </div>
 
-<h4 align="center"> 
-🔸<b> Spotify Now Playing 🔸</b>
+<h4 align="left"> 
+<b> Spotify Now Playing 🎧</b>
 </h4>
 
 [![Spotify](https://novatorem-pujakhalika.vercel.app/api/spotify)](https://open.spotify.com/user/31gf4ejxp4r2gh2ixgqbzy76ccni?si=QAXkqr2sRDug-0BmiztYQQ&utm_source=copy-link&dl_branch=1)
