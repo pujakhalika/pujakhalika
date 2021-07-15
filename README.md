@@ -86,3 +86,8 @@ Hi, You can call me Puja
 </h4>
 
 [![Spotify](https://novatorem-pujakhalika.vercel.app/api/spotify)](https://open.spotify.com/user/31gf4ejxp4r2gh2ixgqbzy76ccni?si=QAXkqr2sRDug-0BmiztYQQ&utm_source=copy-link&dl_branch=1)
+
+
+[![Visits](https://komarev.com/ghpvc/?username=pujakhalika&logo=GitHub&label=GitHub%20Visits&color=336699&logoColor=white&style=flat-square)](https://github.com/pujakhalika)
+</p>
+
