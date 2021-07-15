@@ -80,3 +80,7 @@ Hi, You can call me Puja
 <div align="center">
 &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=pujakhalika&theme=tokyonight&locale=en" alt="pujakhalika">
 </div>
+
+<h4 align="center">
+🔸 <b> Spotify Now Playing 🔸</b>
+</h4>
