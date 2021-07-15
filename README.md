@@ -91,3 +91,5 @@ Hi, You can call me Puja
 [![Visits](https://komarev.com/ghpvc/?username=pujakhalika&logo=GitHub&label=GitHub%20Visits&color=336699&logoColor=white&style=flat-square)](https://github.com/pujakhalika)
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pujakhalika)](https://github.com/pujakhalika/github-readme-stats)
+
