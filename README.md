@@ -47,6 +47,10 @@ Hi, You can call me Puja
   <img  alt="Puja Khalika's Github" width="30px" src="https://user-images.githubusercontent.com/73125355/125703734-f0480caa-e607-4350-8ff6-bdc2735c0fe9.png" />
 </a>
 
+<a href="https://stackoverflow.com/users/16262741/puja-khalika?tab=profile">
+  <img  alt="Puja Khalika's Stack Overflow" width="30px" src="" />
+</a>
+
 <a href="https://discord.gg/Puja Khalika#9405">
   <img  alt="Puja Khalika's Discord" width="30px" src="https://user-images.githubusercontent.com/73125355/125703861-e99b4e85-043a-49dc-9f3a-99d31df138e4.png" />
 </a>
