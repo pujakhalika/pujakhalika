@@ -17,7 +17,7 @@ Hi, You can call me Puja
 </div>
 
 <div align="center"> 
-<blockquote> <b> <i> 'life without game and code is boring and life without praying to Allah and read Qur'an is absolutely lost so enjoy your life while it last'.</i> </b> </blockquote>
+<blockquote> <b> <i> 'life without game and code is boring and life without praying to Allah and read Qur'an is absolutely lost and deviate so enjoy your life while it last'.</i> </b> </blockquote>
 </div>
 
 <h4 align="center">
