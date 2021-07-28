@@ -21,6 +21,10 @@ Hi, You can call me Puja. I'm a final year student
 </div>
 
 <h4 align="center">
+🔸<b> Skills 🔸</b>
+</h4>
+
+<h4 align="center">
 🔸<b> Follow and Connect With Me 🔸 </b>
 </h4>
 
