@@ -80,7 +80,7 @@ Hi, You can call me Puja. I'm a final year student
 <p align="center">
   <samp>
 <a href="https://instagram.com/pujakhalika17/">
-  <img  alt="Puja Khalika's Instagram" width="40" src="https://user-images.githubusercontent.com/73125355/125702142-9b40b898-c9f6-474f-977b-29720a436f0a.png" />
+  <img  alt="Puja Khalika's Instagram" width="80" src="https://user-images.githubusercontent.com/73125355/125702142-9b40b898-c9f6-474f-977b-29720a436f0a.png" />
 </a>
 
 <a href="https://twitter.com/PujaKhalika">
