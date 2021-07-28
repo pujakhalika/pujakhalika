@@ -104,7 +104,7 @@ Hi, You can call me Puja. I'm a final year student
 </a>
 
 <a href="https://medium.com/@pujakhalika71">
- <img alt="Puja Khalika's Medium" width="40" src="https://user-images.githubusercontent.com/73125355/127406713-7f447dc1-7229-4109-ac63-d27f6b5d83ec.png" />
+ <img alt="Puja Khalika's Medium" width="40" src="https://user-images.githubusercontent.com/73125355/127407044-9b088794-c978-4f6e-9726-c843b241a954.png" />
 
 <a href="https://discord.gg/Puja Khalika#9405">
   <img  alt="Puja Khalika's Discord" width="40" src="https://user-images.githubusercontent.com/73125355/125703861-e99b4e85-043a-49dc-9f3a-99d31df138e4.png" />
