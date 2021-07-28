@@ -31,6 +31,8 @@ Hi, You can call me Puja. I'm a final year student
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="33"/> </a> </p>
 
 
+<h6 align="center">Advanced Front End (Currently Learning):</h6>
+
 <h4 align="center">
 🔸<b> Follow and Connect With Me 🔸 </b>
 </h4>
