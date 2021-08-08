@@ -69,7 +69,6 @@ Hi, You can call me Puja. I'm a final year student
 <div align="center">Currently Learning:</div>
 <p align="center">
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"> </a> 
- <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"> <img src="https://user-images.githubusercontent.com/73125355/128636583-6866f9fc-697c-4c84-bd84-c753a4f1414b.png" alt="aftereffects" width="40"> </a>
  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40"> </a>
 </p>
 
