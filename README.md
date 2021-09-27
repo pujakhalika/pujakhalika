@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-Hi, You can call me Puja. I'm a final year student
+Hi, You can call me Puja. I'm a final year student semester 9
 </div>
 
 <div align="center"> 
