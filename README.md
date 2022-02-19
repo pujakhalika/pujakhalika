@@ -66,6 +66,7 @@ Hi, You can call me Puja.
 
 <div align="center">Tools ( Entry Level / Basic Knowledge ) : </div>
 <p align="center">
+ <a href="https://www.vercel.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="rive" width="40"> </a>
  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"> </a>
  <a href="https://www.gimp.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="rive" width="40"> </a>
  <a href="https://www.rive.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/73125355/154809328-588eb11b-2600-4310-abc1-00a613f2f614.jpg" alt="rive" width="40"> </a>
