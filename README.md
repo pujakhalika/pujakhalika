@@ -59,12 +59,13 @@ Hi, You can call me Puja. I'm a final year student semester 9
 <div align="center">Mobile Development - Flutter & Dart  ( Entry Level / Basic Knowledge ) : </div>
 <p align="center">
  <a href="https://www.flutter.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"> </a>
- <a href="https://www.flutter.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40"> </a>
+ <a href="https://www.dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40"> </a>
 </p>
 
 <div align="center">Tools ( Entry Level / Basic Knowledge ) : </div>
 <p align="center">
  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"> </a>
+ <a href="https://www.gimp.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="rive" width="40"> </a>
  <a href="https://www.rive.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/73125355/154809328-588eb11b-2600-4310-abc1-00a613f2f614.jpg" alt="rive" width="40"> </a>
 </p>
 
