@@ -13,12 +13,14 @@
 </div>
 
 <div align="center">
-Hi, You can call me Puja. I'm a final year student semester 9
+Hi, You can call me Puja. 
+<p align="center"> I'm final year student with Frontend Developement as my main skills (HTML, CSS and Vanilla Javascript) </p>
 </div>
 
 <div align="center"> 
 <blockquote> <b> <i> 'life without game and code is boring and life without praying to Allah and read Qur'an is absolutely stray and deviate so enjoy your life while it last'.</i> </b> </blockquote>
 </div>
+
 
 <h4 align="center">
 🔸<b> Skills 🔸</b>
