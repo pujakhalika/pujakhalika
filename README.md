@@ -14,7 +14,7 @@
 
 <div align="center">
 Hi, You can call me Puja. 
-<p align="center"> I'm final year student with Frontend Developement as my main skills (HTML, CSS and Vanilla Javascript) </p>
+<p align="center"> I'm final year student with Frontend Development as my main skills (HTML, CSS and Vanilla Javascript) </p>
 </div>
 
 <div align="center"> 
