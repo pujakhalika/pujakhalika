@@ -48,14 +48,12 @@ Hi, You can call me Puja.
 <div align="center">Backend Framewok ( Entry Level / Basic Knowledge ) : </div>
 <p align="center">
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"> </a>
- <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40"> </a> 
 </p>
 
 <div align="center">Database  ( Entry Level / Basic Knowledge ) : </div>
 <p align="center">
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"> </a> 
  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"> </a> 
- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"> </a>
 </p>
 
 <div align="center">Mobile Development - Flutter & Dart  ( Entry Level / Basic Knowledge ) : </div>
