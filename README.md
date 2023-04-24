@@ -125,14 +125,14 @@ width="100" height="50"> </a>
 🔸<b> Top Languange 🔸</b>
 </h4>
 <div align="center">
-&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pujakhalika&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pujakhalika">
+&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pujakhalika&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pujakhalika">
 </div>
 
 <h4 align="center">
 🔸<b> GitHub Statistics 🔸</b>
 </h4>
 <div align="center">
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=pujakhalika&show_icons=true&theme=tokyonight&locale=en" alt="pujakhalika">
+&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pujakhalika&show_icons=true&theme=tokyonight&locale=en" alt="pujakhalika">
 </div>
 
 <h4 align="center">
