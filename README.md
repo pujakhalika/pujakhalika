@@ -85,7 +85,7 @@ width="100" height="50"> </a>
 
 <p align="center">
   <samp>
-<a href="https://instagram.com/pujakhalika17/">
+<a href="https://instagram.com/pujakhalika/">
   <img  alt="Puja Khalika's Instagram" width="40" src="https://user-images.githubusercontent.com/73125355/125702142-9b40b898-c9f6-474f-977b-29720a436f0a.png" />
 </a>
 
