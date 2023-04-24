@@ -14,7 +14,7 @@
 
 <div align="center">
 Hi, You can call me Puja. 
-<p align="center"> I'm final year student with Frontend Development as my main skills (HTML, CSS and Vanilla Javascript) </p>
+<p align="center"> I'm Frontend Engineer</p>
 </div>
 
 <div align="center"> 
@@ -28,48 +28,54 @@ Hi, You can call me Puja.
 
 <div align="center">Frontend ( Intermediate Level / Expericence) : </div>
 <p align="center"> 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"> </a> 
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"> </a>
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"> </a> 
+ <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"> </a>
 </p>
 <div align="center">Framework CSS & JS ( Entry Level / Basic Knowledge ) : </div>
 <p align="center">
- <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"> </a>
- <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"> </a>
- <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40"> </a>
+ <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"> </a>
+ <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"> </a>
+ <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"> </a>
  <a href="https://nuxtjs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" alt="nuxjs" 
-width="80"> </a>
+width="100" height="50"> </a>
 </p>
 
 <div align="center">Backend & Backend as a Service (BaaS) ( Entry Level / Basic Knowledge ) : </div>
 <p align="center">
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40"> </a>
- <a href="https://supabase.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg" alt="supabase" width="80"> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100"> </a>
+ <a href="https://supabase.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg" alt="supabase" width="180"> </a>
 </p>
 
 <div align="center">Database  ( Entry Level / Basic Knowledge ) : </div>
 <p align="center">
- <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"> </a> 
- <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40"> </a> 
+ <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"> </a> 
+ <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"> </a> 
 </p>
 
 <div align="center">Mobile Development - Flutter & Dart  ( Entry Level / Basic Knowledge ) : </div>
 <p align="center">
- <a href="https://www.flutter.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"> </a>
- <a href="https://www.dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40"> </a>
+ <a href="https://www.flutter.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"> </a>
+ <a href="https://www.dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"> </a>
 </p>
 
-<div align="center">Tools ( Entry Level / Basic Knowledge ) : </div>
+<div align="center">UI/UX and Animation Tools ( Entry Level / Basic Knowledge ) : </div>
 <p align="center">
- <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"> </a>
- <a href="https://www.gimp.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="rive" width="40"> </a>
- <a href="https://www.rive.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/73125355/154809328-588eb11b-2600-4310-abc1-00a613f2f614.jpg" alt="rive" width="40"> </a>
+ <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"> </a>
+ <a href="https://www.rive.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/73125355/154809328-588eb11b-2600-4310-abc1-00a613f2f614.jpg" alt="rive" width="50" height="50"> </a>
+ <a href="https://www.lottiefilles.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/LottieFiles_logo.svg" alt="lottie" width="150" height="50"> </a>
 </p>
 
-<div align="center">Other Tools ( Entry Level / Basic Knowledge ) : </div>
+<div align="center">Quality Assurance (QA) Tools ( Entry Level / Basic Knowledge ) : </div>
 <p align="center">
- <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40"> </a>
+ <a href="https://katalon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Katalon_Studio_logo.png" alt="katalon" width="150" height="50"> </a>
+ <a href="https://postman.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="postman" width="150" height="50"> </a>
+</p>
+
+<div align="center"> Agile Management Software Tools : </div>
+<p align="center">
+ <a href="https://atlassian.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" alt="jira" width="150" height="50"> </a>
 </p>
 
 <h4 align="center">
