@@ -1,15 +1,33 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
-  <a href="your-linkedin-URL">
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/pujakhalika/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://instagram.com/pujakhalika/">
+    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://github.com/pujakhalika">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/16262741/puja-khalika?tab=profile">
+    <img src="https://img.shields.io/badge/Stackoverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverFlow Badge"/>
+  </a>
+  <a href="https://www.facebook.com/pujakhalika/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://medium.com/@pujakhalika71">
+    <img src="https://img.shields.io/badge/Medium-brown?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561198292273467">
+    <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+  </a>
+  <a href="https://discord.gg/Puja Khalika#9405">
+    <img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://open.spotify.com/user/31gf4ejxp4r2gh2ixgqbzy76ccni?si=LQYayhCvSk6nXr1Q5GDZvQ%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&utm">
+    <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
 </div>
 
