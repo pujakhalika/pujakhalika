@@ -4,34 +4,34 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pujakhalika/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-007bb5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="https://github.com/pujakhalika">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
     <a href="https://stackoverflow.com/users/16262741/puja-khalika?tab=profile">
-    <img src="https://img.shields.io/badge/Stackoverflow-red?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverFlow Badge"/>
+    <img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverFlow Badge"/>
   </a>
   <a href="https://instagram.com/pujakhalika/">
-    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-c32aa3?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
     <a href="https://twitter.com/PujaKhalika">
-    <img src="https://img.shields.io/badge/Twitter-orange?style=for-the-badge&logo=x&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Instagram Badge"/>
   </a>
     <a href="https://www.facebook.com/pujakhalika/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
     <a href="https://steamcommunity.com/profiles/76561198292273467">
-    <img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+    <img src="https://img.shields.io/badge/Steam-042430?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
     <a href="https://open.spotify.com/user/31gf4ejxp4r2gh2ixgqbzy76ccni?si=LQYayhCvSk6nXr1Q5GDZvQ%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&utm">
-    <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+    <img src="https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
     <a href="https://discord.gg/Puja Khalika#9405">
-    <img src="https://img.shields.io/badge/Discord-grey?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://medium.com/@pujakhalika71">
-    <img src="https://img.shields.io/badge/Medium-brown?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-12100e?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
 <div id="profile" align="center">
