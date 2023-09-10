@@ -61,20 +61,13 @@
 
  :woman_technologist: About Me :
 
- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ - :telescope: Hi, my name is Puja Khalika Buana you can call me Puja. I'm Frontend and Mobile Developer
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring and Learn some tech
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, i also playing games and watching anime
 
-- :mailbox:How to reach me: [![Website Badge](https://img.shields.io/badge/Website-blue?style=flat&logo=www&logoColor=white)](https://pujakhalika.vercel.app)
-
- 
-<div align="center">
-Hi, my name is Puja Khalika Buana you can call me Puja. 
-<p align="center"> I'm Frontend and Mobile Developer </p>
-</div>
-
+- :mailbox:How to reach me: [![Website Badge](https://img.shields.io/badge/WEBSITE-grey?style=flat&logo=WebMoney&logoColor=white)](https://pujakhalika.vercel.app)
 
 
 
