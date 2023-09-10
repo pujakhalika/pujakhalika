@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pujakhalika/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -33,8 +34,21 @@
     <img src="https://img.shields.io/badge/Medium-brown?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
+<div id="profile" align="center">
+  <img src="https://komarev.com/ghpvc/?username=pujakhalika&logo=GitHub&label=GitHub%20Visitor&color=336699&logoColor=white&style=flat-square" alt="viewers" width="200"/> 
+</div>
 
 
+<h1 align="center">
+   <b> IRASSHAI! イラシャイ </b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<h1 align="center">
+:octocat: <b> WELCOME TO MY GITHUB HOMEPAGE </b>:octocat:
+</h1>
+<div align="center"> 
+<blockquote> <b> <i> 'life without game and code is boring and life without praying to Allah and read Qur'an is absolutely stray and deviate so enjoy your life while it last'.</i> </b> </blockquote>
+</div>
 
 
 
@@ -43,23 +57,25 @@
 </p>
 
 
-<div align="center">
- <b> IRASSHAI! イラシャイ </b>
-</div>
 
 
-<div align="center">
-:octocat: <b> WELCOME TO MY GITHUB HOMEPAGE </b>:octocat:
-</div>
+ :woman_technologist: About Me :
 
+ - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Website Badge](https://img.shields.io/badge/Website-blue?style=flat&logo=www&logoColor=white)](https://pujakhalika.vercel.app)
+
+ 
 <div align="center">
-Hi, You can call me Puja. 
+Hi, my name is Puja Khalika Buana you can call me Puja. 
 <p align="center"> I'm Frontend and Mobile Developer </p>
 </div>
 
-<div align="center"> 
-<blockquote> <b> <i> 'life without game and code is boring and life without praying to Allah and read Qur'an is absolutely stray and deviate so enjoy your life while it last'.</i> </b> </blockquote>
-</div>
+
 
 
 <h4 align="center">
@@ -187,13 +203,16 @@ width="100" height="70"> </a>
 &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=pujakhalika&theme=tokyonight&locale=en" alt="pujakhalika">
 </div>
 
-<h4 align="left"> 
+<h4 align="center"> 
 <b> Spotify Now Playing 🎧</b>
+  <p>
+    
+  </p>
 </h4>
 
 [![Spotify](https://novatorem-pujakhalika.vercel.app/api/spotify)](https://open.spotify.com/user/31gf4ejxp4r2gh2ixgqbzy76ccni?si=QAXkqr2sRDug-0BmiztYQQ&utm_source=copy-link&dl_branch=1)
 
 
-[![Visits](https://komarev.com/ghpvc/?username=pujakhalika&logo=GitHub&label=GitHub%20Visitors&color=336699&logoColor=white&style=flat-square)](https://github.com/pujakhalika)
+[![Visits](https://komarev.com/ghpvc/?username=pujakhalika&logo=GitHub&label=GitHub%20Views&color=336699&logoColor=white&style=flat-square)](https://github.com/pujakhalika)
 </p>
 
