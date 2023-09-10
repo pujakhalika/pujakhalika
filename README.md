@@ -58,8 +58,8 @@
 
 
 
-
- :woman_technologist: About Me :
+---
+ ### :woman_technologist: About Me :
 
  - :telescope: Hi, my name is Puja Khalika Buana you can call me Puja. I'm Frontend and Mobile Developer
 
@@ -69,10 +69,12 @@
 
 - :mailbox:How to reach me: [![Website Badge](https://img.shields.io/badge/WEBSITE-grey?style=flat&logo=WebMoney&logoColor=white)](https://pujakhalika.vercel.app)
 
+---
 
+### :hammer_and_wrench: Languages and Tools :
 
 <h4 align="center">
-🔸<b> Tech Stack 🔸</b>
+🔸<b> :hammer_and_wrench: Tech Stack :🔸</b>
 </h4>
 
 <div align="center">Frontend (Intermediate) : </div>
