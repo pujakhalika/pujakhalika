@@ -94,7 +94,7 @@ width="100" height="70"> </a>
 
 <div align="center">Backend(Beginner) : </div>
 <p align="center">
-<a href="https://go.dev/" target="_blank"> <img src="https://github.com/pujakhalika/pujakhalika/assets/73125355/769f4413-63bd-47ed-934d-9bc27be30d9f" alt="golang" width="170"> </a>
+<a href="https://go.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg" alt="golang" width="300"> </a>
 </p>
 
 <div align="center">Backend as a Service/ BaaS (Intermediate) : </div>
