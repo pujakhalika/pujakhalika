@@ -29,6 +29,9 @@
   <a href="https://open.spotify.com/user/31gf4ejxp4r2gh2ixgqbzy76ccni?si=LQYayhCvSk6nXr1Q5GDZvQ%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&utm">
     <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
+  <a href="https://twitter.com/PujaKhalika">
+    <img src="https://img.shields.io/badge/Twitter-orange?style=for-the-badge&logo=x&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 
 
