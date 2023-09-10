@@ -100,7 +100,7 @@ width="100" height="70"> </a>
 <div align="center">Backend as a Service/ BaaS (Intermediate) : </div>
 <p align="center">
  <a href="https://supabase.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg" alt="supabase" width="180"> </a>
- <a href="https:firebase.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="180"> </a>
+ <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="180"> </a>
 </p>
 
 <div align="center">Database  (Beginner) : </div>
