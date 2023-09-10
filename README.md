@@ -47,7 +47,7 @@
 :octocat: <b> WELCOME TO MY GITHUB HOMEPAGE </b>:octocat:
 </h1>
 <div align="center"> 
-<blockquote> <b> <i> 'life without game and code is boring and life without praying to Allah and read Qur'an is absolutely stray and deviate so enjoy your life while it last'.</i> </b> </blockquote>
+<blockquote> <b> <i> 'Life without games and coding is boring, and life without prayer to Allah and reading the Qur'an can lead one astray and deviate. So, enjoy your life while it lasts.'.</i> </b> </blockquote>
 </div>
 
 
