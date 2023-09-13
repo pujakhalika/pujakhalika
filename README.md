@@ -89,7 +89,7 @@
 <p align="center">
  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="100" height="70"> </a>
  <a href="https://astro.build/" target="_blank"> <img src="https://github.com/pujakhalika/pujakhalika/assets/73125355/b4221d10-2f83-4f94-bb12-bc741d52d282" alt="astrojs" 
-width="180"> </a>
+width="150"> </a>
 </p>
 
 <div align="center">Backend(Beginner) : </div>
