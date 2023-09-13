@@ -97,6 +97,12 @@ width="150"> </a>
 <a href="https://go.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg" alt="golang" width="300"> </a>
 </p>
 
+<div align="center">Mobile (Intermediate) : </div>
+<p align="center">
+ <a href="https://www.flutter.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" > </a>
+ <a href="https://www.dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60"> </a>
+</p>
+
 <div align="center">Backend as a Service/ BaaS (Intermediate) : </div>
 <p align="center">
  <a href="https://supabase.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg" alt="supabase" width="180"> </a>
@@ -108,12 +114,6 @@ width="150"> </a>
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100"> </a> 
  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80"> </a> 
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="180"> </a>
-</p>
-
-<div align="center">Mobile (Intermediate) : </div>
-<p align="center">
- <a href="https://www.flutter.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" > </a>
- <a href="https://www.dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60"> </a>
 </p>
 
 <div align="center">Design (Beginner) : </div>
