@@ -88,7 +88,7 @@
 <div align="center">Framework Web (Beginner) : </div>
 <p align="center">
  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="100" height="70"> </a>
- <a href="https://nuxtjs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" alt="nuxjs" 
+ <a href="https://nuxtjs.org" target="_blank"> <img src="https://github.com/pujakhalika/pujakhalika/assets/73125355/b4221d10-2f83-4f94-bb12-bc741d52d282" alt="nuxjs" 
 width="100" height="70"> </a>
 </p>
 
