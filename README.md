@@ -61,7 +61,7 @@
 ---
  ### :woman_technologist: About Me :
 
- - :telescope: Hi, my name is Puja Khalika Buana you can call me Puja. I'm Frontend and Mobile Developer
+ - :telescope: Hi, my name is Puja Khalika Buana you can call me Puja. I'm Junior Developer
 
 - :seedling: Exploring and Learn some tech
 
