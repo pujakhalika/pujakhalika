@@ -43,9 +43,9 @@
    <b> IRASSHAI! イラシャイ </b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h1 align="center">
+<h2 align="center">
 :octocat: <b> WELCOME TO MY GITHUB HOMEPAGE </b>:octocat:
-</h1>
+</h2>
 <div align="center"> 
 <blockquote> <b> <i> 'Life can lack excitement without coding, games, and anime. Without prayer to Allah, study of the Holy Qur'an and following the Sunnah of the Prophet Muhammad one can easily lose their way. Therefore, cherish your life while it lasts.'.</i> </b> </blockquote>
 </div>
