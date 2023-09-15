@@ -108,7 +108,7 @@ width="150"> </a>
 </p>
 
 
-<div align="center">Backend as a Service/ BaaS (Intermediate) : </div>
+<div align="center">Backend as a Service/ BaaS (Beginner) : </div>
 <p align="center">
  <a href="https://supabase.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg" alt="supabase" width="180"> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="180"> </a>
