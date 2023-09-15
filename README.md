@@ -61,7 +61,7 @@
 ---
  ### :woman_technologist: About Me :
 
- - :telescope: Hi, my name is Puja Khalika Buana you can call me Puja. I'm Junior Developer
+ - :telescope: Hi, my name is Puja Khalika Buana you can call me Puja. I'm Junior Developer. My main core principle in Mobile Application with Flutter. And now i'm currently learning frontend development
 
 - :seedling: Exploring and Learn some tech
 
@@ -77,7 +77,15 @@
 🔸<b> :hammer_and_wrench: Tech Stack :🔸</b>
 </h4>
 
-<div align="center">Frontend (Intermediate) : </div>
+
+<div align="center">Mobile (Intermediate) : </div>
+<p align="center">
+ <a href="https://www.flutter.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" > </a>
+ <a href="https://www.dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60"> </a>
+</p>
+
+
+<div align="center">Frontend (Beginner) : </div>
 <p align="center"> 
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="70"> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="70"> </a>
@@ -85,6 +93,8 @@
  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="100" height="70"> </a>
  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="100" height="70"> </a>
 </p>
+
+
 <div align="center">Framework Web (Beginner) : </div>
 <p align="center">
  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="100" height="70"> </a>
@@ -97,17 +107,13 @@ width="150"> </a>
 <a href="https://go.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg" alt="golang" width="300"> </a>
 </p>
 
-<div align="center">Mobile (Intermediate) : </div>
-<p align="center">
- <a href="https://www.flutter.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" > </a>
- <a href="https://www.dart.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60"> </a>
-</p>
 
 <div align="center">Backend as a Service/ BaaS (Intermediate) : </div>
 <p align="center">
  <a href="https://supabase.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/supabase/supabase-ar21.svg" alt="supabase" width="180"> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" width="180"> </a>
 </p>
+
 
 <div align="center">Database  (Beginner) : </div>
 <p align="center">
@@ -116,16 +122,19 @@ width="150"> </a>
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="180"> </a>
 </p>
 
+
 <div align="center">Design (Beginner) : </div>
 <p align="center">
  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"> </a>
 </p>
+
 
 <div align="center"> Testing (Beginner) : </div>
 <p align="center">
  <a href="https://katalon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Katalon_Studio_logo.png" alt="katalon" width="150" height="50"> </a>
  <a href="https://postman.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="postman" width="150" height="50"> </a>
 </p>
+
 
 <div align="center"> Other Tools : </div>
 <p align="center">
