@@ -65,7 +65,7 @@
 
 - :seedling: Exploring and Learn some tech
 
-- :zap: In my free time, i also playing games and watching anime
+- :video_game: In my free time, i also reading a book, playing games and watching anime
 
 - :rocket:How to reach me: [![Website Badge](https://img.shields.io/badge/WEBSITE-grey?style=flat&logo=WebMoney&logoColor=white)](https://pujakhalika.vercel.app)
 
