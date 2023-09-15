@@ -67,7 +67,7 @@
 
 - :zap: In my free time, i also playing games and watching anime
 
-- :mailbox:How to reach me: [![Website Badge](https://img.shields.io/badge/WEBSITE-grey?style=flat&logo=WebMoney&logoColor=white)](https://pujakhalika.vercel.app)
+- :rocket:How to reach me: [![Website Badge](https://img.shields.io/badge/WEBSITE-grey?style=flat&logo=WebMoney&logoColor=white)](https://pujakhalika.vercel.app)
 
 ---
 
