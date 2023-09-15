@@ -61,7 +61,7 @@
 ---
  ### :woman_technologist: About Me :
 
- - :telescope: Hi, my name is Puja Khalika Buana you can call me Puja. I'm Junior Developer. My main core principle in Mobile Application with Flutter. And now i'm currently learning frontend development
+ - :telescope: Hi, my name is Puja Khalika Buana you can call me Puja. I'm Junior Developer. My main core principle in Mobile Application with Flutter. However, now i'm currently learning frontend development for more experience
 
 - :seedling: Exploring and Learn some tech
 
