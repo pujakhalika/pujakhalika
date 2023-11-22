@@ -140,6 +140,7 @@ width="150"> </a>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="visualstudiocode" width="150"> </a>
 
+<p align="center">
   <a href="https://atlassian.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" alt="jira" width="150" height="50"> </a>
 
   <a href="https://vercel.com/" target="_blank"> <img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="vercel" width="80"> </a>
