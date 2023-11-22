@@ -63,9 +63,9 @@
 
  - :memo: Hi, my name is Puja Khalika Buana you can call me Puja. I'm Junior Developer. My main core principle in Mobile Application with Flutter. However, now currently learning frontend development for expand my experience
 
-- :seedling: Exploring and Learn some tech
+- :seedling: Exploring and Learn some other tech and also active following online course (e-learning), webinar etc for upgrade my soft and hardskill
 
-- :video_game: In my free time, i also reading a book, playing games and watching anime
+- :video_game: In my free time, i also reading a book, playing games and watching anime. 
 
 - :rocket:How to reach me: [![Website Badge](https://img.shields.io/badge/WEBSITE-grey?style=flat&logo=WebMoney&logoColor=white)](https://pujakhalika.vercel.app)
 
