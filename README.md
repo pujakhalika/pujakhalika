@@ -139,11 +139,17 @@ width="150"> </a>
 <div align="center"> Other Tools : </div>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="visualstudiocode" width="150"> </a>
+
   <a href="https://atlassian.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" alt="jira" width="150" height="50"> </a>
+
   <a href="https://vercel.com/" target="_blank"> <img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="vercel" width="80"> </a>
+
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="80"> </a>
+
   <a href="https://www.npmjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="80"> </a>
+
   <a href="https://www.rive.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/73125355/154809328-588eb11b-2600-4310-abc1-00a613f2f614.jpg" alt="rive" width="50" height="50"> </a>
+
  <a href="https://www.lottiefilles.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/LottieFiles_logo.svg" alt="lottie" width="150" height="50"> </a>
 </p>
 
