@@ -170,7 +170,7 @@ width="150"> </a>
 ### :fire: My Stats :
 
 <h4 align="center">
-🔸<b> Top Languange 🔸</b>
+🔸<b> Top Language 🔸</b>
 </h4>
 <div align="center">
 &nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pujakhalika&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pujakhalika">
